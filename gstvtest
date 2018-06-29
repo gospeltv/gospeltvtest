@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1,GOODTV CHANNEL 1 综合台
+#EXTINF:-1,GOODTV 综合台
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 
-#EXTINF:-1,GOODTV CHANNEL 1 真理台
-http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+#EXTINF:-1,GOODTV 真理台
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+
+#EXTINF:-1,GOODTV 职场新视野
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch22-3.m3u8
